@@ -4,6 +4,6 @@ Account Manager in the green industry by day, maker by necessity. I manage 50+ r
 
 **Currently building with:** Python, Claude Code, and Home Assistant. Voice-first workflows, transcript tools, and field automation that actually fits how I work.
 
-**Side Quest:** Designing bookshelf murals with custom book dust jackets because apparently "free time" and "doing nothing" are concepts I've never figure out.
+**Side Quest:** Designing bookshelf murals with custom book dust jackets because apparently "free time" and "doing nothing" are concepts I've never quite figured out.
 
 **Oklahoma City area**
