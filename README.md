@@ -1,9 +1,9 @@
-**Hi, I'm Dawne.**
+**Hi, I'm Dawnette.**
 
-Account Manager by day, maker by necessity. I manage 50+ commercial properties and got tired of the manual work — so I started building tools to handle it. Most of what's here started as "I just need this one thing to work."
+Account Manager in the green industry by day, maker by necessity. I manage 50+ residential properties, including some HOAs and got tired of every tool living in its own world.  So, I started building my own tools to help fill the disconnect. Most of what's here started with me banging my head on the proverbial keyboard knowing there had to be a better way.
 
-Currently building with Python, Claude AI, and Home Assistant. Voice-first workflows, transcript tools, and automation that actually fits how I work in the field.
+**Currently building with:** Python, Claude Code, and Home Assistant. Voice-first workflows, transcript tools, and field automation that actually fits how I work.
 
-Also designing custom book dust jackets as a passion project. Because apparently I do this in my spare time too.
+**Side Quest:** Designing bookshelf murals with custom book dust jackets because apparently "free time" and "doing nothing" are concepts I've never figure out.
 
 **Oklahoma City area**
