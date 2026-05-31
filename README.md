@@ -1,3 +1,5 @@
+![newtfly banner](banner.png)
+
 # Hi, I'm Dawnette.
 
 I've spent years as an Account Manager in the green industry — walking properties, meeting crews, juggling customer expectations, and trying to make a dozen disconnected tools work in the field. At some point I stopped waiting for someone else to fix it.
