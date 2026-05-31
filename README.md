@@ -1,4 +1,4 @@
-![newtfly banner](banner.png)
+![newtfly banner](banner.jpg)
 
 # Hi, I'm Dawnette.
 
